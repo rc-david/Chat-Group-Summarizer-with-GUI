@@ -1,0 +1,247 @@
+
+--- NEW DEBUG SESSION: 2025-08-18T21:51:16.961Z ---
+
+--- NEW DEBUG SESSION: 2025-08-18T21:53:07.502Z ---
+
+--- NEW DEBUG SESSION: 2025-08-18T21:56:38.985Z ---
+
+--- NEW DEBUG SESSION: 2025-08-18T21:58:26.957Z ---
+
+--- NEW DEBUG SESSION: 2025-08-18T22:02:51.173Z ---
+
+--- NEW DEBUG SESSION: 2025-08-18T22:05:39.521Z ---
+
+--- NEW DEBUG SESSION: 2025-08-18T22:08:34.293Z ---
+
+--- NEW DEBUG SESSION: 2025-08-18T22:10:04.590Z ---
+[DEBUG] Request URL: https://platform.ringcentral.com/restapi/v1.0/glip/chats/122943823878/posts?dateFrom=2025-08-18T00%3A00%3A00.000Z&dateTo=2025-08-18T23%3A59%3A00.000Z&recordCount=250
+
+--- NEW DEBUG SESSION: 2025-08-18T22:11:51.350Z ---
+[DEBUG] Request URL: https://platform.ringcentral.com/restapi/v1.0/glip/chats/122943823878/posts?dateFrom=2025-08-18T00%3A00%3A00.000Z&dateTo=2025-08-18T23%3A59%3A00.000Z&recordCount=250
+
+--- NEW DEBUG SESSION: 2025-08-18T22:15:21.757Z ---
+[DEBUG] Request URL: https://platform.ringcentral.com/restapi/v1.0/glip/chats/122943823878/posts?dateFrom=2025-08-18T00%3A00%3A00.000Z&dateTo=2025-08-18T23%3A59%3A00.000Z&recordCount=250
+
+--- NEW DEBUG SESSION: 2025-08-18T22:19:20.042Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] Request URL: https://platform.ringcentral.com/restapi/v1.0/glip/teams/122943823878/posts?dateFrom=2025-08-18T00%3A00%3A00.000Z&dateTo=2025-08-18T23%3A59%3A00.000Z&recordCount=250
+[DEBUG] 'teams' endpoint returned 404. Falling back to 'chats' endpoint.
+[DEBUG] Request URL: https://platform.ringcentral.com/restapi/v1.0/glip/chats/122943823878/posts?dateFrom=2025-08-18T00%3A00%3A00.000Z&dateTo=2025-08-18T23%3A59%3A00.000Z&recordCount=250
+
+--- NEW DEBUG SESSION: 2025-08-18T22:21:45.775Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+
+--- NEW DEBUG SESSION: 2025-08-18T22:21:55.535Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+
+--- NEW DEBUG SESSION: 2025-08-18T22:24:03.012Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 21861851142
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/21861851142/posts
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+
+--- NEW DEBUG SESSION: 2025-08-18T22:24:36.948Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+
+--- NEW DEBUG SESSION: 2025-08-18T22:24:43.778Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+
+--- NEW DEBUG SESSION: 2025-08-18T22:28:35.234Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+
+--- NEW DEBUG SESSION: 2025-08-18T22:31:46.464Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+
+--- NEW DEBUG SESSION: 2025-08-18T22:33:13.108Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+
+--- NEW DEBUG SESSION: 2025-08-18T22:33:29.437Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+
+--- NEW DEBUG SESSION: 2025-08-18T22:35:57.131Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+
+--- NEW DEBUG SESSION: 2025-08-18T22:39:47.652Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+
+--- NEW DEBUG SESSION: 2025-08-18T22:42:35.728Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 7595909126
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/7595909126/posts
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+
+--- NEW DEBUG SESSION: 2025-08-18T22:48:23.618Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+
+--- NEW DEBUG SESSION: 2025-08-18T22:49:05.510Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 7595909126
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/7595909126/posts
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+
+--- NEW DEBUG SESSION: 2025-08-18T22:54:59.754Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+
+--- NEW DEBUG SESSION: 2025-08-18T22:55:41.401Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 7595909126
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/7595909126/posts
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+
+--- NEW DEBUG SESSION: 2025-08-18T22:57:53.731Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 1310416902
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/1310416902/posts
+
+--- NEW DEBUG SESSION: 2025-08-19T16:08:23.388Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+
+--- NEW DEBUG SESSION: 2025-08-19T16:09:45.479Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+
+--- NEW DEBUG SESSION: 2025-08-19T16:11:40.108Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 2677989382
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/2677989382/posts
+
+--- NEW DEBUG SESSION: 2025-08-19T16:25:44.829Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 2677989382
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/2677989382/posts
+
+--- NEW DEBUG SESSION: 2025-08-19T16:33:05.781Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 2677989382
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/2677989382/posts
+
+--- NEW DEBUG SESSION: 2025-08-19T16:39:35.808Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 2677989382
+[DEBUG] 'teams' endpoint failed. Error: Resource not found. Falling back to 'chats' endpoint.
+
+--- NEW DEBUG SESSION: 2025-08-19T16:42:17.026Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 2677989382
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/2677989382/posts
+[DEBUG] API returned 30 raw messages.
+[DEBUG] First raw message timestamp: 2025-08-19T16:28:18.473Z
+[DEBUG] Last raw message timestamp: 2025-08-18T23:06:56.693Z
+[DEBUG] Filtering for messages between 2025-08-11T00:00:00.000Z and 2025-08-17T23:59:00.000Z
+
+--- NEW DEBUG SESSION: 2025-08-19T16:44:41.892Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 2677989382
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/2677989382/posts
+[DEBUG] API returned 30 messages after server-side filtering.
+
+--- NEW DEBUG SESSION: 2025-08-19T16:48:45.853Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 2677989382
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/2677989382/posts
+[DEBUG] API returned 30 raw messages.
+[DEBUG] Filtering for messages between 2025-08-19T00:00:00.000Z and 2025-08-19T23:59:00.000Z
+[DEBUG] Found 21 messages after client-side filtering.
+
+--- NEW DEBUG SESSION: 2025-08-19T16:52:29.469Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 2677989382
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/2677989382/posts
+
+--- NEW DEBUG SESSION: 2025-08-19T17:00:27.805Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 2677989382
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/2677989382/posts
+
+--- NEW DEBUG SESSION: 2025-08-19T17:18:40.264Z ---
+[DEBUG] Attempting to use 'teams' endpoint for chat ID: 2677989382
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/2677989382/posts
+[DEBUG] Fetched page. Oldest message on page: 2025-08-18T23:06:56.693Z
+[DEBUG] Total raw messages fetched: 30. Now filtering...
+[DEBUG] Found 0 messages after client-side filtering.
+
+--- NEW DEBUG SESSION: 2025-08-19T17:22:10.676Z ---
+[DEBUG] Attempting to use 'teams' endpoint for chat ID: 2677989382
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/2677989382/posts
+[DEBUG] Request URL: https://platform.ringcentral.com/restapi/v1.0/glip/chats/2677989382/posts?recordCount=250&dateFrom=2025-08-11T00%3A00%3A00.000Z&dateTo=2025-08-17T23%3A59%3A00.000Z
+[DEBUG] API returned a total of 30 messages.
+
+--- NEW DEBUG SESSION: 2025-08-19T17:26:29.761Z ---
+[DEBUG] Attempting to use 'teams' endpoint for chat ID: 2677989382
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/2677989382/posts
+[DEBUG] Request URL: https://platform.ringcentral.com/restapi/v1.0/glip/chats/2677989382/posts?recordCount=250&dateFrom=2025-08-11T00%3A00%3A00.000Z&dateTo=2025-08-17T23%3A59%3A00.000Z
+[DEBUG] API returned a total of 30 messages.
+
+--- NEW DEBUG SESSION: 2025-08-19T18:19:47.394Z ---
+[DEBUG] Attempting to use 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+[DEBUG] Request URL: https://platform.ringcentral.com/restapi/v1.0/glip/chats/122943823878/posts?recordCount=250&dateFrom=2025-08-18T00%3A00%3A00.000Z&dateTo=2025-08-19T23%3A59%3A00.000Z
+[DEBUG] API returned a total of 30 messages.
+
+--- NEW DEBUG SESSION: 2025-08-19T18:26:03.986Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+[DEBUG] API returned 30 raw messages. Now filtering client-side.
+[DEBUG] Found 24 messages after client-side filtering.
+
+--- NEW DEBUG SESSION: 2025-08-19T18:33:45.472Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+
+--- NEW DEBUG SESSION: 2025-08-19T18:37:21.404Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+
+--- NEW DEBUG SESSION: 2025-08-19T19:45:47.404Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+
+--- NEW DEBUG SESSION: 2025-08-19T19:57:54.189Z ---
+[DEBUG] Attempting to fetch from 'teams' endpoint for chat ID: 122943823878
+[DEBUG] 'teams' endpoint failed. Falling back to 'chats' endpoint.
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
+
+--- NEW DEBUG SESSION: 2025-08-19T22:40:03.429Z ---
+[DEBUG] Using endpoint: /restapi/v1.0/glip/chats/122943823878/posts
